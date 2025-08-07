@@ -12,11 +12,17 @@ A simple web app to **summarize PDF documents** and **answer questions** about t
 - Download summaries and answers as text files.
 - Built with Python, Streamlit, and Cohere API.
 
+## Live Demo
+
+Check out the live demo of the Doc Summary QA app here:  
+ [https://docsummaryapp-6gqpqcnslwptunl8hyhgaq.streamlit.app/](https://docsummaryapp-6gqpqcnslwptunl8hyhgaq.streamlit.app/)
+
+## GitHub Repository
+
+Full source code available at:  
+[https://github.com/vinoliahmolemane/doc_summary_qa](https://github.com/vinoliahmolemane/doc_summary_qa)
+
 ---
-
-## Demo
-
-Run locally and open your browser at `http://localhost:8501` to use the app.
 
 ---
 
